@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Episodes - Built 2 Scale</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/particles.css">
+    <link rel="stylesheet" href="css/metallic-shine.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fugaz+One&family=Inter:wght@400;500;600;700&family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="./images/b2s-logo.png" alt="Built2Scale Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li class="nav-item"><a href="index.html">Home<div class="underline-animation"></div></a></li>
+                    <li class="nav-item"><a href="episodes.html" class="active">Episodes<div class="underline-animation active"></div></a></li>
+                    <li class="nav-item"><a href="listen.html">Listen<div class="underline-animation"></div></a></li>
+                    <li class="nav-item"><a href="about.html">About<div class="underline-animation"></div></a></li>
+                    <li><a href="#" class="listen-now-btn">Listen Now</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section class="page-header animate-fade-in-up opacity-0 translate-y-8">
+                <h3 class="page-title"><strong>All <span style="color: #ff6b00;">Episodes</span></strong></h3>
+                <p class="page-description">Explore our full library of episodes covering the cutting edge of business, tech, and AI.</p>
+            </section>
+
+            <section class="episodes-grid">
+                <!-- Episodes will be loaded dynamically via JavaScript -->
+                <div class="loading-indicator animate-fade-in-up opacity-0 translate-y-8" style="animation-delay: 0.2s; grid-column: 1 / -1; text-align: center; padding: 40px;">
+                    <i class="fas fa-spinner fa-spin" style="color: #ff6b00; font-size: 2rem;"></i>
+                    <p>Loading episodes...</p>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <footer style="background: linear-gradient(135deg, rgba(20, 10, 5, 0.95) 0%, rgba(30, 18, 8, 0.95) 100%); padding: 40px 20px; margin-top: 60px; width: 100%; border-radius: 12px 12px 0 0; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); border: 1px solid rgba(255, 107, 0, 0.2);">
+        <div class="container" style="max-width: 1200px; margin: 0 auto;">
+            <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
+                <div style="flex: 1; min-width: 250px; margin-bottom: 30px;">
+                    <h2 style="font-family: 'Fugaz One', cursive; font-size: 2.5rem; margin-bottom: 15px;">B2S</h2>
+                    <p style="color: #cccccc; max-width: 300px;">Business, Tech and AI – for those who refuse to be left behind.</p>
+                </div>
+                
+                <div style="flex: 1; min-width: 250px; margin-bottom: 30px;">
+                    <h3 style="color: #ffffff; margin-bottom: 20px;">Quick Links</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 10px;"><a href="index.html" style="color: #cccccc; text-decoration: none; transition: color 0.3s;">Home</a></li>
+                        <li style="margin-bottom: 10px;"><a href="episodes.html" style="color: #cccccc; text-decoration: none; transition: color 0.3s;">Episodes</a></li>
+                        <li style="margin-bottom: 10px;"><a href="about.html" style="color: #cccccc; text-decoration: none; transition: color 0.3s;">About</a></li>
+                        <li style="margin-bottom: 10px;"><a href="listen.html" style="color: #cccccc; text-decoration: none; transition: color 0.3s;">Listen</a></li>
+                    </ul>
+                </div>
+                
+                <div style="flex: 1; min-width: 250px;">
+                    <!-- Empty div to maintain layout -->
+                </div>
+            </div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px; border-top: 1px solid rgba(255, 255, 255, 0.1); padding-top: 20px;">
+                <p style="color: #999999;">&copy; 2025 Built 2 Scale. All rights reserved.</p>
+                <div style="display: flex; gap: 15px;">
+                    <a href="https://twitter.com/built2scale" target="_blank" style="color: #ffffff; font-size: 1.2rem; transition: color 0.3s;"><i class="fab fa-twitter"></i></a>
+                    <a href="https://instagram.com/built2scale" target="_blank" style="color: #ffffff; font-size: 1.2rem; transition: color 0.3s;"><i class="fab fa-instagram"></i></a>
+                    <a href="https://linkedin.com/company/built2scale" target="_blank" style="color: #ffffff; font-size: 1.2rem; transition: color 0.3s;"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://youtube.com/@b2spod?si=RESZrVy0x0t2Syad" target="_blank" style="color: #ffffff; font-size: 1.2rem; transition: color 0.3s;"><i class="fab fa-youtube"></i></a>
+                    <a href="https://feeds.captivate.fm/b2spod/" target="_blank" style="color: #ffffff; font-size: 1.2rem; transition: color 0.3s;"><i class="fas fa-rss"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="js/episodes-loader.js"></script>
+    <script src="js/particles.js"></script>
+    <script src="js/metallic-shine.js"></script>
+</body>
+</html>

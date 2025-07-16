@@ -1,0 +1,200 @@
+{
+  "episodes": [
+    {
+      "id": "16",
+      "title": "The Intelligence Big Bang",
+      "number": "16",
+      "date": "2025-06-30",
+      "description": "Exploring the rapid acceleration of AI capabilities and its implications for business and society.",
+      "longDescription": "In this episode, Matt and Scott discuss the intelligence big bang - the exponential growth in AI capabilities we're witnessing today. They explore how this acceleration is reshaping industries, creating new opportunities, and presenting unprecedented challenges for businesses, governments, and individuals alike.",
+      "image": "images/ep-16-thumbnail.png",
+      "duration": "1:09:09",
+      "featured": true,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": [],
+      "topics": ["Artificial Intelligence", "Technology Trends", "Future of Business"],
+      "resources": [
+        {
+          "title": "Intelligence Big Bang Resources",
+          "url": "https://built2scale.fm/resources/ep16",
+          "type": "website"
+        }
+      ],
+      "videoUrl": "https://youtu.be/Ai6OnoaQAfM?si=fs9tnWx1dHc3sR0S"
+    },
+    {
+      "id": "15",
+      "title": "The $100 Million AI Talent War: Meta vs OpenAI",
+      "number": "15",
+      "date": "2025-06-23",
+      "description": "Examining the fierce competition for AI talent between tech giants and what it means for the industry.",
+      "longDescription": "Matt and Scott dive into the high-stakes battle for AI talent, where companies like Meta and OpenAI are offering astronomical compensation packages to secure top researchers and engineers. They discuss the implications of this talent war on innovation, smaller companies, and the future of AI development.",
+      "image": "images/ep-15-thumbnail.png",
+      "duration": "58:45",
+      "featured": true,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": [],
+      "topics": ["AI Talent", "Tech Industry", "Hiring Strategies"],
+      "resources": [
+        {
+          "title": "AI Talent War Analysis",
+          "url": "https://built2scale.fm/resources/ep15",
+          "type": "website"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/AAX7kk4Lbnw?si=bvUXeRyMTwm3uMRA"
+    },
+    {
+      "id": "14",
+      "title": "$2B for No Product, Robots Under $3K & Australia's Massive Miss",
+      "number": "14",
+      "date": "2025-06-16",
+      "description": "Analyzing surprising investment trends, affordable robotics, and missed opportunities in the tech landscape.",
+      "longDescription": "In this episode, Matt and Scott break down three fascinating developments: startups raising billions without shipping products, the democratization of robotics with sub-$3K options, and how Australia missed a major opportunity in the global tech race. They explore what these trends reveal about the current state of technology investment and innovation.",
+      "image": "images/ep-14-thumbnail.png",
+      "duration": "1:02:30",
+      "featured": false,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": [],
+      "topics": ["Investment Trends", "Robotics", "Global Tech"],
+      "resources": [
+        {
+          "title": "Episode 14 Show Notes",
+          "url": "https://built2scale.fm/resources/ep14",
+          "type": "website"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/8NJQf12hKM8"
+    },
+    {
+      "id": "13",
+      "title": "Is ARR a myth?",
+      "number": "13",
+      "date": "2025-06-09",
+      "description": "Questioning the reliability of Annual Recurring Revenue as a metric for SaaS businesses.",
+      "longDescription": "Matt and Scott challenge the industry-standard metric of Annual Recurring Revenue (ARR). They discuss why this widely accepted measure might be misleading investors and founders alike, and propose alternative frameworks for evaluating SaaS business health and potential.",
+      "image": "images/ep-13-thumbnail.png",
+      "duration": "55:18",
+      "featured": false,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": [],
+      "topics": ["SaaS Metrics", "Business Valuation", "Startup Finance"],
+      "resources": [
+        {
+          "title": "ARR Alternative Metrics Guide",
+          "url": "https://built2scale.fm/resources/ep13",
+          "type": "pdf"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/77PusLyIxf3"
+    },
+    {
+      "id": "ep002",
+      "title": "Scaling Your Startup: Lessons from the Trenches",
+      "number": "002",
+      "date": "2025-07-07",
+      "description": "Serial entrepreneur Marcus Johnson shares hard-won insights from scaling three successful tech startups.",
+      "longDescription": "What does it really take to scale a startup from promising idea to market leader? In this episode, Matt and Scott welcome serial entrepreneur Marcus Johnson, who has successfully scaled and exited three tech startups in the last decade. Marcus shares candid stories about his biggest mistakes, critical decision points, and the strategies that ultimately led to success. The conversation covers everything from fundraising and talent acquisition to product-market fit and organizational culture. Whether you're just starting out or already navigating the challenges of rapid growth, this episode offers practical wisdom from someone who's been through the full entrepreneurial journey multiple times.",
+      "image": "images/episodes/ep002.jpg",
+      "duration": "52:15",
+      "featured": true,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": ["Marcus Johnson"],
+      "topics": ["Entrepreneurship", "Scaling", "Startup Culture"],
+      "resources": [
+        {
+          "title": "Scaling Framework Template",
+          "url": "https://example.com/scaling-framework",
+          "type": "template"
+        },
+        {
+          "title": "Johnson's Guide to Startup Scaling",
+          "url": "https://example.com/johnson-guide",
+          "type": "book"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "ep003",
+      "title": "Digital Transformation in Traditional Industries",
+      "number": "003",
+      "date": "2025-07-14",
+      "description": "How century-old companies are reinventing themselves through technology adoption and cultural shifts.",
+      "longDescription": "Digital transformation isn't just for tech companies. In this fascinating episode, Matt and Scott explore how traditional industries—from manufacturing to agriculture—are leveraging technology to reinvent their businesses for the digital age. Special guest Elena Rodriguez, Chief Digital Officer at Heritage Manufacturing (a 127-year-old company), shares the remarkable story of how her team overcame resistance to change and transformed a legacy operation into a data-driven, tech-enabled market leader. The episode covers practical approaches to change management, selecting the right technologies for transformation, and balancing innovation with respect for institutional knowledge and company heritage.",
+      "image": "images/episodes/ep003.jpg",
+      "duration": "45:37",
+      "featured": false,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": ["Elena Rodriguez"],
+      "topics": ["Digital Transformation", "Change Management", "Traditional Industries"],
+      "resources": [
+        {
+          "title": "Heritage Manufacturing Case Study",
+          "url": "https://example.com/heritage-case-study",
+          "type": "case study"
+        },
+        {
+          "title": "Digital Transformation Readiness Assessment",
+          "url": "https://example.com/dt-assessment",
+          "type": "tool"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "ep004",
+      "title": "Building Tech Teams That Scale",
+      "number": "004",
+      "date": "2025-07-21",
+      "description": "CTO Sarah Kim discusses strategies for building, managing, and scaling high-performing engineering teams.",
+      "longDescription": "As companies grow, one of the biggest challenges is scaling the technical team without sacrificing quality, culture, or velocity. In this episode, Matt and Scott welcome Sarah Kim, CTO of FastGrowth Tech, who has grown her engineering organization from 5 to 150 people in just three years. Sarah shares practical insights on hiring strategies, onboarding processes, technical leadership development, and maintaining a strong engineering culture during rapid growth. The conversation also covers controversial topics like remote vs. in-office work, managing technical debt, and when to refactor vs. rebuild. This episode is essential listening for technical leaders facing the challenges of scaling, as well as founders trying to build their technical organizations.",
+      "image": "images/episodes/ep004.jpg",
+      "duration": "56:43",
+      "featured": false,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": ["Sarah Kim"],
+      "topics": ["Engineering Leadership", "Team Building", "Technical Culture"],
+      "resources": [
+        {
+          "title": "Engineering Onboarding Playbook",
+          "url": "https://example.com/eng-onboarding",
+          "type": "template"
+        },
+        {
+          "title": "Technical Debt Assessment Framework",
+          "url": "https://example.com/tech-debt-framework",
+          "type": "tool"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "ep005",
+      "title": "Data-Driven Decision Making",
+      "number": "005",
+      "date": "2025-07-28",
+      "description": "How leading organizations are using data to drive better business decisions and create competitive advantages.",
+      "longDescription": "In today's business environment, data is often called the new oil. But how exactly are successful companies turning this raw resource into valuable insights and better decisions? In this episode, Matt and Scott explore the world of data-driven decision making with guest Dr. James Wilson, Chief Data Officer at Global Analytics Partners. Dr. Wilson shares practical frameworks for building a data-driven culture, common pitfalls to avoid, and real-world examples of how data has transformed business outcomes across various industries. The conversation covers everything from data collection and quality to analytics tools, visualization best practices, and the human side of data adoption. Whether you're just starting your data journey or looking to take your analytics capabilities to the next level, this episode offers valuable insights for leaders at all stages.",
+      "image": "images/episodes/ep005.jpg",
+      "duration": "50:18",
+      "featured": false,
+      "hosts": ["Matt Perrott", "Scott Wilcox"],
+      "guests": ["Dr. James Wilson"],
+      "topics": ["Data Analytics", "Decision Making", "Business Intelligence"],
+      "resources": [
+        {
+          "title": "Data Maturity Assessment Tool",
+          "url": "https://example.com/data-maturity",
+          "type": "tool"
+        },
+        {
+          "title": "Visualization Best Practices Guide",
+          "url": "https://example.com/viz-guide",
+          "type": "guide"
+        }
+      ],
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "siteInfo": {
+    "title": "Built 2 Scale",
+    "description": "The podcast for forward-thinking entrepreneurs, tech enthusiasts, and business leaders.",
+    "logoUrl": "images/b2s-logo.png"
+  },
+  "homePage": {
+    "hero": {
+      "title": "Built 2 Scale",
+      "subtitle": "The Business & Technology Podcast",
+      "description": "Exploring the intersection of business strategy, technology, and artificial intelligence for forward-thinking entrepreneurs and leaders.",
+      "ctaText": "Listen Now",
+      "ctaUrl": "#latest-episodes"
+    },
+    "latestEpisodes": {
+      "title": "Latest Episodes",
+      "subtitle": "Tune in to our most recent conversations",
+      "maxEpisodes": 4,
+      "showFeaturedOnly": false
+    },
+    "listenOn": {
+      "title": "Listen On Your Favorite Platform",
+      "platforms": [
+        {
+          "name": "Spotify",
+          "icon": "fab fa-spotify",
+          "url": "https://open.spotify.com/show/0SybjVK1ZUrDITEF7ktt9X?si=7e408be1e1984e6b",
+          "class": "platform-spotify"
+        },
+        {
+          "name": "Apple",
+          "icon": "fab fa-apple",
+          "url": "https://podcasts.apple.com/us/podcast/built-2-scale/id1808421696",
+          "class": "platform-apple"
+        },
+        {
+          "name": "YouTube",
+          "icon": "fab fa-youtube",
+          "url": "https://www.youtube.com/@Built2Scale",
+          "class": "platform-youtube"
+        }
+      ]
+    },
+    "subscribe": {
+      "title": "Never Miss an Episode",
+      "description": "Subscribe to our newsletter to get notified about new episodes and exclusive content.",
+      "buttonText": "Subscribe Now",
+      "formAction": "#"
+    }
+  },
+  "aboutPage": {
+    "mission": {
+      "title": "Our Mission",
+      "content": "Built 2 Scale was founded with a singular mission: to provide business leaders, entrepreneurs, and tech enthusiasts with the knowledge they need to thrive in a rapidly evolving digital landscape. \n\nIn each episode, we dive deep into the worlds of business strategy, cutting-edge technology, and artificial intelligence. We explore how these forces are reshaping industries and creating unprecedented opportunities for those who understand how to harness them.\n\nOur conversations feature insights from industry pioneers, successful founders, and thought leaders who are at the forefront of innovation. Through these discussions, we aim to demystify complex concepts, share actionable strategies, and inspire our listeners to think bigger about what's possible. \n\nWhether you're scaling a startup, implementing AI in your enterprise, or simply fascinated by the rapid evolution of technology, Built 2 Scale delivers the knowledge you need to stay ahead of the curve. Join us as we explore the future of business and technology—for those who refuse to be left behind."
+    },
+    "team": [
+      {
+        "name": "Matt Perrott",
+        "title": "Software Engineer & Construction Tech Expert",
+        "bio": "With a software engineering degree and extensive experience in construction technology, Matt brings a unique perspective to the show. His deep understanding of AI and its applications in traditional industries allows him to bridge the gap between cutting-edge technology and practical implementation for businesses looking to scale.",
+        "image": "images/matt.png",
+        "social": [
+          {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/mattperrott",
+            "icon": "fab fa-linkedin"
+          },
+          {
+            "platform": "Twitter",
+            "url": "https://twitter.com/mattperrott",
+            "icon": "fab fa-twitter"
+          }
+        ]
+      },
+      {
+        "name": "Scott Wilcox",
+        "title": "Entrepreneur & AI Strategy Consultant",
+        "bio": "Scott is a serial entrepreneur with multiple successful exits and a passion for AI-driven business transformation. As a consultant to Fortune 500 companies on AI strategy, he offers listeners practical insights on how to leverage emerging technologies to create sustainable competitive advantages and scale effectively.",
+        "image": "images/scott.png",
+        "social": [
+          {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/scottwilcox",
+            "icon": "fab fa-linkedin"
+          },
+          {
+            "platform": "Twitter",
+            "url": "https://twitter.com/scottwilcox",
+            "icon": "fab fa-twitter"
+          }
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "title": "Business Strategy",
+        "description": "Scaling strategies, market positioning, and growth tactics for businesses of all sizes."
+      },
+      {
+        "title": "Artificial Intelligence",
+        "description": "Practical applications of AI, machine learning, and data science in modern business."
+      },
+      {
+        "title": "Tech Innovation",
+        "description": "Emerging technologies and how they're reshaping industries and creating new opportunities."
+      },
+      {
+        "title": "Leadership",
+        "description": "Building high-performing teams and developing the skills needed to lead in a digital age."
+      },
+      {
+        "title": "Digital Transformation",
+        "description": "How traditional businesses can adapt and thrive in an increasingly digital economy."
+      },
+      {
+        "title": "Entrepreneurship",
+        "description": "Insights and lessons from successful founders and startup veterans."
+      }
+    ],
+    "socialLinks": [
+      {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/built2scale",
+        "icon": "fab fa-youtube",
+        "class": "platform-youtube large"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/built2scale",
+        "icon": "fab fa-twitter",
+        "class": "platform-twitter large"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/company/built2scale",
+        "icon": "fab fa-linkedin",
+        "class": "platform-linkedin large"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/built2scale",
+        "icon": "fab fa-instagram",
+        "class": "platform-instagram large"
+      }
+    ]
+  },
+  "listenPage": {
+    "platforms": [
+      {
+        "name": "Spotify",
+        "icon": "fab fa-spotify",
+        "url": "https://open.spotify.com/show/0SybjVK1ZUrDITEF7ktt9X?si=7e408be1e1984e6b",
+        "class": "platform-spotify"
+      },
+      {
+        "name": "Apple",
+        "icon": "fab fa-apple",
+        "url": "https://podcasts.apple.com/us/podcast/built-2-scale/id1808421696",
+        "class": "platform-apple"
+      },
+      {
+        "name": "YouTube",
+        "icon": "fab fa-youtube",
+        "url": "https://www.youtube.com/@Built2Scale",
+        "class": "platform-youtube"
+      }
+    ],
+    "rssFeed": "https://feeds.captivate.fm/b2spod/"
+  }
+}

@@ -1,0 +1,54 @@
+/* Metallic Shine Effect */
+.metallic-card {
+  position: relative;
+  /* Keep original background and styling */
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.metallic-card:hover {
+  transform: translateY(-2px);
+  /* Subtle lift effect but keep original shadows */
+}
+
+.metallic-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(
+    circle at var(--x, 50%) var(--y, 50%), 
+    rgba(255, 150, 50, 0.12) 0%, /* Very subtle orange-amber */
+    rgba(255, 140, 30, 0.08) 15%, /* Brand-aligned orange */
+    rgba(255, 130, 20, 0.04) 30%,
+    transparent 45%
+  );
+  mix-blend-mode: lighten; /* Very subtle blend that preserves orange color */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: -1; /* Behind all content, just above the base background */
+}
+
+.metallic-card:hover::before {
+  opacity: 1;
+}
+
+/* Specific styling for episode tiles with shine effect */
+.episode-tile.metallic-card .episode-info {
+  position: relative;
+  z-index: 1;
+}
+
+.episode-tile.metallic-card .episode-image {
+  position: relative;
+  z-index: 1;
+}
+
+/* Latest episodes section with shine effect */
+.latest-episodes.metallic-section {
+  /* Keep original styling */
+  position: relative;
+}
